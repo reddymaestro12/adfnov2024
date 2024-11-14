@@ -1,0 +1,12 @@
+{
+	"name": "ds_sqldb_query",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "lnks_sqldb",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
